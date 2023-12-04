@@ -1,0 +1,74 @@
+* {
+    background-color: black;
+    color: white;
+    font-size: 18px;
+  }
+  
+  header {
+    border: 3px dashed rgb(145, 226, 23);
+    text-align: center;
+    margin: 1%;
+  }
+  
+  #title {
+    color: greenyellow;
+    font-size: 36px;
+    text-shadow: 1px 1px blue;
+  }
+  
+  h3 {
+    font-size: 20px;
+    font-style: italic;
+  }
+  
+  main {
+    border-left: 3px dashed blue;
+    border-right: 3px dashed blue;
+    margin: 0% 1%;
+    padding: 2%;
+  }
+  
+  img {
+    display: block;
+    margin: auto;
+  }
+  
+  h1 {
+    color: blue;
+    font-size: 32px;
+    font-style: italic;
+  }
+  
+  ul li {
+    line-height: 3;
+  }
+  
+  .invaders {
+    color: aqua;
+  }
+  
+  a {
+    color: red;
+  }
+  
+  nav {
+    border-bottom: 3px dashed white;
+  }
+  
+  h2 {
+    padding-top: 10px;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .indent {
+    text-indent: 2%;
+    margin: 2% 0px
+  }
+  
+  footer p {
+    border-top: 3px dashed red;
+    margin: 25px;
+    padding-top: 10px;
+    text-align: end;
+  }
